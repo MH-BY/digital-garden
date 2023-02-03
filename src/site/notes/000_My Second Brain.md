@@ -10,16 +10,16 @@ These are interconnected notes of mine. Some of them are messy, random, and unpo
 
 I decided to share some of my notes here. Hopefully, some resonate with yours, maybe connect us, or maybe give serendipity to your ideas as well as mine. Forgive me if you encounter dead links. It means that I forgot to sync it, or I just intentionally don't want to share it. 
 
-## 🤔How to surf? 
+## 🤔  How to surf? 
 It is up to you. You can search for topics you like, click some random notes, or explore the connected notes on the graph view. 
 Below are maybe good starts to enter my Second Brain.
 
-### 🔬Notes related to my Study & Research
+### 🔬  Notes related to my Study & Research
 - You can find my project home page for anything related to study in  [[003_PJ_home_Study\|003_PJ_home_Study]] . It consists of something like [[Notes/Course requirements\|Course requirements]] , in case you are curious about what requirements or courses need to be taken by PhD student at NTU. 
 - Or you can find my micro notes about my research in [[013_Notes_Research\|013_Notes_Research]]. Probably quite tedious and interesting to dig there. 
 - You will find my notes related to references like a bunch of [[Notes/Paper Annotations\|Paper Annotations]], knowledge related to perovskite and [[Notes/Memristor\|Memristor]],  etc.
 
-### 📚Notes related to books I read
+### 📚  Notes related to books I read
 - Yes, once upon a time I was so pumped to make a proper review of books in [[004_PJ_home_BookReview\|004_PJ_home_BookReview]]. 
 - I think one that I properly reviewed was [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]. You will find atomic insights like [[Notes/Wealth is process, not an event\|Wealth is process, not an event]], [[Notes/Be a producer not consumer\|Be a producer not consumer]], [[Notes/Four ingredients to win\|Four ingredients to win]], etc. Dive in! Or may be [[Books/Books review/Atomic Habits (review)\|Atomic Habits (review)]] by James Clear.
 - The rest? I am too lazy to make proper reviews. But here I have some rough annotations:
@@ -29,7 +29,7 @@ Below are maybe good starts to enter my Second Brain.
 	- [[Books/Highlights/Kahneman-Thinking, Fast and Slow\|Kahneman-Thinking, Fast and Slow]]
 	Etc. Some of them are still in progress.
 
-### 🎲 Some other notes
+### 🎲   Some other notes
 Or, some random notes like:
 - Notes related to productivity here:  [[015_Notes_Productivity\|015_Notes_Productivity]]
 - Want to be good at managing notes? [[Notes/Introduction to Zettelkasten\|Introduction to Zettelkasten]]
