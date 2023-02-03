@@ -5,7 +5,7 @@
 
 # My Second Brain
 
-[[Notes/Hi I am Emha\|Hi I am Emha]]. Welcome to my second brain!
+[[Notes/Hi my name is Emha\|Hi my name is Emha]]. Welcome to my second brain!
 These are interconnected notes of mine. Some of them are messy, random, and unpolished. Yes, because they were initially intended for me personally on my personal knowledge management tool Obsidian. I want to make it works like how the brain works. The knowledge grows over time. The notes as neurons are interconnected, one may find a way to connect with a distant topic to form serendipity. It might be updated/expanded as my perception of the world grows. 
 
 I decided to share some of my notes. Hopefully, some resonate with yours, connect us, and give serendipity to your ideas as well as mine. Forgive me if you encounter dead links. It means that I forgot to sync it, or I just intentionally don't want to share it. 
