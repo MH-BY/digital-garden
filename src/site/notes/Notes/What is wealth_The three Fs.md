@@ -11,11 +11,11 @@ According to MJ in his book [[Books/Books review/The Millionaire Fastlane (revie
 
 ### 1. Family (relationship)
 Wealth is having a strong-spirited familial relationship with people. Not just family, but can be community, God, and friends.
-A 2003 World Value Survey (worldvaluessurvey.com) found that the happiest people in the world have a tight senses of community and strong family.
+A 2003 World Value Survey (worldvaluessurvey.com) found that the happiest people in the world have a tight sense of community and strong family.
 
 ### 2. Fitness (health)
 Wealth is healthy, vibrancy, passion, and boundless energy.
 
 ### 3. Freedom (choice)
-Wealth is having freedom of choice: Freedom to live how you want to live, what kind, when, and where. Freedom from bosses, alarm clocks, and the pressure of money it self. Freedom to pursue dreams, rise our children. Freedom from the drudgery of doing something you hate. 
+Wealth is having freedom of choice: Freedom to live how you want to live, what kind, when, and where. Freedom from bosses, alarm clocks, and the pressure of money itself. Freedom to pursue dreams, and rise our children. Freedom from the drudgery of doing something you hate. 
 
