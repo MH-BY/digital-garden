@@ -4,12 +4,12 @@
 
 
 # Life choices
-The fabric of our life are choices that we cumulatively chose along the way. A bad choice shift your trajectory off by mere one degree today can make a huge impact for your future. The error is magnified. Choice have this type of divergence over time and it's called "impact differential".
-Our life's choice are like a tree with millions of branches that represent the consequences of our choices. Near the trunk of the tree, the branches are thick, reflecting the decisions we made early in life. The top branches are thin and not so rigid, representing the decision we made recently.
+The fabrics of our life are choices that we cumulatively chose along the way. A bad choice to shift your trajectory off by a mere one degree today can make a huge impact on your future. The error is magnified. Choice has this type of divergence over time and it's called "impact differential".
+Our life's choices are like a tree with millions of branches that represent the consequences of our choices. Near the trunk of the tree, the branches are thick, reflecting the decisions we made early in life. The top branches are thin and not so rigid, representing the decision we made recently.
 
 Strategy to face choices:
 ## Worse Case Consequence Analysis (WCCA)
-Designed to steer you away from detours and treasonous choice.
+Designed to steer you away from detours and treasonous choices.
 It asks you to answer three questions: 
 - What is the worst-case consequence of this choice? 
 - What is the probability of this outcome? 
@@ -80,7 +80,7 @@ For using WADM, you need at least two choices. Let’s say you live in Jogjakart
 | Safety(1)         | 6(6)       | 9(9)      |
 | Taxes   (5)       | 5(25)      | 6(30)     |
 | *Sum*         | (166)      | (97)          |
-In this example you would stay in Jogjakarta because it received a score of 166 over 97.
+In this example, you would stay in Jogjakarta because it received a score of 166 over 97.
 
 
 #productivity #inspiration 
