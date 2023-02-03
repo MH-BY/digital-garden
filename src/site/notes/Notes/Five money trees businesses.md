@@ -9,7 +9,7 @@ Fastlane Distinctions To divorce yourself from the Slowlane's transactional rela
 The 5 money-tree seedlings: 
 
 ### 1. Rental system
-Example: Real estate, licenses, and patent.
+Example: Real estate, licenses, and patents.
 
 ### 2. Computer system
 Example: Internet and software business.
@@ -20,18 +20,18 @@ Example: Authoring Books, blogging, and magazines.
 Content systems are systems of information. That information can be fused to a variety of other systems, like the Internet and physical distribution systems.
 
 ### 4. Distribution system
-Example: Franchising, chaining, network marketing, online marketing.
-A distribution system is any structure or organization designed to move products to the masses. Distribution systems can be hybrids with the other seedlings, such as content and computer systems.
+Example: Franchising, chaining, network marketing, and online marketing.
+A distribution system is any structure or organization designed to move products to the masses. Distribution systems can be hybrids with other seedlings, such as content and computer systems.
 This is what Starbucks did to become the biggest coffee chain in the world.
 So do KFC, McD, etc.
 
 ### 5. Human Resource system
-This can add or subtract to passivity. The most expensive to manage and implement. 
-Good employees nurture money trees. Bad employees pluck the fruit of money trees and require pruning. However don't let that scare you. If you want to make millions of dollars, or billions, human resource systems are needed, because you can't do everything yourself. 
+This can add or subtract passivity. The most expensive to manage and implement. 
+Good employees nurture money trees. Bad employees pluck the fruit of money trees and require pruning. However, don't let that scare you. If you want to make millions of dollars or billions, human resource systems are needed, because you can't do everything yourself. 
 
 Link:
 [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]
-[[Notes/Three roadmap to wealth\|Three roadmap to wealth]]
+[[Notes/Three roadmaps to wealth\|Three roadmaps to wealth]]
 [[017_Notes_Finance\|017_Notes_Finance]]
 
 #financial 
