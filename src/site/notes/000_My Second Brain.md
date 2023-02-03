@@ -21,7 +21,7 @@ Below are maybe good starts to enter my Second Brain.
 
 ### 📚  Notes related to books I read
 - Yes, once upon a time I was so pumped to make a proper review of books in [[004_PJ_home_BookReview\|004_PJ_home_BookReview]]. 
-- I think one that I properly reviewed was [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]. You will find atomic insights like [[Notes/Wealth is process, not an event\|Wealth is process, not an event]], [[Notes/Be a producer not consumer\|Be a producer not consumer]], [[Notes/Four ingredients to win\|Four ingredients to win]], etc. Dive in! Or may be [[Books/Books review/Atomic Habits (review)\|Atomic Habits (review)]] by James Clear.
+- I think one that I properly reviewed was [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]. You will find atomic insights like [[Notes/Wealth is a process not an event\|Wealth is a process not an event]], [[Notes/Be a producer not a consumer\|Be a producer not a consumer]], [[Notes/Four ingredients to win\|Four ingredients to win]], etc. Dive in! Or may be [[Books/Books review/Atomic Habits (review)\|Atomic Habits (review)]] by James Clear.
 - The rest? I am too lazy to make proper reviews. But here I have some rough annotations:
 	-  [[Books/Highlights/2019-The Hundred-Page Machine Learning Book-Andriy Burkov\|2019-The Hundred-Page Machine Learning Book-Andriy Burkov]]
 	- [[Books/Highlights/Al-Ghazzali-The Alchemy of Happiness\|Al-Ghazzali-The Alchemy of Happiness]]
