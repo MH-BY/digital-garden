@@ -29,27 +29,6 @@
 - [[Notes/Academic Calendar 2023\|Academic Calendar 2023]]
 - [Course registration](https://ts.ntu.edu.sg/sites/intranet/student/dept/sasd/oas/Pages/CourseRegistration/course-registration.aspx)
 
-## Account
--   NTU network account
-    EMHA0001
-    123WADUHlupa
-    EMHA0001@e.ntu.edu.sg
-    matriculation number: G2201998G
-- Name
-	- EMHA BAYU MIFTAHULLATIF
-- Application No.
-	- R2206179
-- Matriculation No.
-	- G2201998G
-- Date of Birth
-	- 16-OCT-1990
-- Programme Applied
-	- [104]Ph.D. (MSE)
-- Passport
-	- C3037191
-- Student pass application no. [check status here](https://eservices.ica.gov.sg/solar/index.xhtml)
-	- TU-2022-R22061790000000
-- Office 365 EDU Account (http://www.outlook.com/e.ntu.edu.sg)
 
 ### [[Notes/Notes on how to do Phd\|Notes on how to do Phd]]
 
