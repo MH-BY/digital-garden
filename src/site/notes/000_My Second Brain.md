@@ -21,7 +21,7 @@ Or you can find my micro notes about my research in [[013_Notes_Research\|013_No
 
 ## Notes related to Books I read
 Yes, once upon a time I was so pumped to make a proper review of books in [[004_PJ_home_BookReview\|004_PJ_home_BookReview]]. 
-I think one that I properly reviewed was [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]. You will find atomic insights like [[Notes/Wealth is process, not an event\|Wealth is process, not an event]], [[Notes/Be a producer, not consumer\|Be a producer, not consumer]], [[Notes/Four ingredients to win\|Four ingredients to win]], etc. Dive in!
+I think one that I properly reviewed was [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]]. You will find atomic insights like [[Notes/Wealth is process, not an event\|Wealth is process, not an event]], [[Notes/Be a producer not consumer\|Be a producer not consumer]], [[Notes/Four ingredients to win\|Four ingredients to win]], etc. Dive in!
 Or may be [[Books/Books review/Atomic Habits (review)\|Atomic Habits (review)]] by James Clear.
 The rest? I am too lazy to make a proper review. But I have the rough annotations btw:
 -  [[Books/Highlights/2019-The Hundred-Page Machine Learning Book-Andriy Burkov\|2019-The Hundred-Page Machine Learning Book-Andriy Burkov]]
