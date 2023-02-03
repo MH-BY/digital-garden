@@ -30,7 +30,7 @@ Try not to become a man of success, but a man of value. ~ Albert Einstein
 [[Notes/Luck is the residue of process\|Luck is the residue of process]]
 [[Notes/Hitchhikers Don't Drive\|Hitchhikers Don't Drive]]
 [[Notes/Financial plan should't revolve around a job\|Financial plan should't revolve around a job]]
-[[Notes/Be a producer, not consumer\|Be a producer, not consumer]] 
+[[Notes/Be a producer not consumer\|Be a producer not consumer]] 
 [[Notes/Five money trees businesses\|Five money trees businesses]]
 [[Notes/Impact millions and make millions\|Impact millions and make millions]]
 [[Notes/Life choices\|Life choices]]
