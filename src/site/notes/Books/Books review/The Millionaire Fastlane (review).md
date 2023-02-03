@@ -8,7 +8,7 @@
 
 ## The book in three points
 - Wealth is a continuous process not just an event
-- The author categorize [[Notes/Three roadmap to wealth\|Three roadmap to wealth]]
+- The author categorize [[Notes/Three roadmaps to wealth\|Three roadmaps to wealth]]
 - Time is the only REAL resource we had. Be careful on how to use it. 
 
 ## Impressions
@@ -23,14 +23,14 @@ Time is the coin of your life. It is the only coin you have, and only you can de
 Try not to become a man of success, but a man of value. ~ Albert Einstein
 
 ## Summary and notes
-[[Notes/Wealth is process, not an event\|Wealth is process, not an event]]
+[[Notes/Wealth is a process not an event\|Wealth is a process not an event]]
 [[Notes/Four ingredients to win\|Four ingredients to win]]
-[[Notes/Three roadmap to wealth\|Three roadmap to wealth]]
+[[Notes/Three roadmaps to wealth\|Three roadmaps to wealth]]
 [[Notes/What is wealth_The three Fs\|What is wealth_The three Fs]]
 [[Notes/Luck is the residue of process\|Luck is the residue of process]]
 [[Notes/Hitchhikers Don't Drive\|Hitchhikers Don't Drive]]
-[[Notes/Financial plan should't revolve around a job\|Financial plan should't revolve around a job]]
-[[Notes/Be a producer not consumer\|Be a producer not consumer]] 
+[[Notes/Financial plan should not revolve around a job\|Financial plan should not revolve around a job]]
+[[Notes/Be a producer not a consumer\|Be a producer not a consumer]] 
 [[Notes/Five money trees businesses\|Five money trees businesses]]
 [[Notes/Impact millions and make millions\|Impact millions and make millions]]
 [[Notes/Life choices\|Life choices]]
