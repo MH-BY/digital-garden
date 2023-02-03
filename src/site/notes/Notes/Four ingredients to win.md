@@ -8,7 +8,7 @@
 ## 1. Roadmap
 It is our compass. Our guiding forces behind our every actions. 
 It is consists of fundamental elements such as motivation, believe, conviction toward the goal. 
-In case of financial roadmap in the book [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]], there are three roadmaps that will chart your course to wealth ([[Notes/Three roadmap to wealth\|Three roadmap to wealth]])
+In case of financial roadmap in the book [[Books/Books review/The Millionaire Fastlane (review)\|The Millionaire Fastlane (review)]], there are three roadmaps that will chart your course to wealth ([[Notes/Three roadmaps to wealth\|Three roadmaps to wealth]])
 
 ## 2. Vehicle
 Your ultimate vehicle is you. No one can drive the journey but you. It is a complicated system that need frequent tuning and maintenance to ensure optimum performance for your trip.
