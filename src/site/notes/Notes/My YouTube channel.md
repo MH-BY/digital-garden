@@ -23,6 +23,7 @@ Here are videos from [my YouTube channel](https://www.youtube.com/@emhabayu) . W
 
 ### 3. Otak kedua ku. Kenapa aku pilih Obsidian?
 <iframe width="560" height="315" src=" https://www.youtube.com/embed/RLIWRcY_qmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This is related to [[Notes/Why I choose Obsidian\|Why I choose Obsidian]]
 
 ### 2. Tips belajar: Teknik belajar Richard Feynman
@@ -31,6 +32,7 @@ This is related to [[Notes/Why I choose Obsidian\|Why I choose Obsidian]]
 
 ### 1 . Introduction
 <iframe width="560" height="315" src=" https://www.youtube.com/embed/ZCwm8gRFLzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This is my first video after several years hiatus on uploading something on YouTube.
 I decided to quit my job, and....
 
