@@ -17,7 +17,7 @@ noun.
 ## Tools
 #### Obsidian
 [[Notes/Why I choose Obsidian\|Why I choose Obsidian]]
-[[Notes/About Obsidian\|About Obsidian]]
+[[Notes/Obsidian\|Obsidian]]
 [[Notes/Preparing Obsidian Publish\|Preparing Obsidian Publish]]
 
 #### Kindle
