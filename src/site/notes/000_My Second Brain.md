@@ -31,7 +31,8 @@ Below are maybe good starts to enter my Second Brain.
 
 ### 🎲   Some other notes
 Or, some random notes like:
-- Notes related to productivity here:  [[015_Notes_Productivity\|015_Notes_Productivity]]
+- [[Notes/My YouTube channel\|My YouTube channel]]
+- Notes related to productivity are here:  [[015_Notes_Productivity\|015_Notes_Productivity]]
 - Want to be good at managing notes? [[Notes/Introduction to Zettelkasten\|Introduction to Zettelkasten]]
 - Notes related to [[Notes/Obsidian\|Obsidian]]:  [[Notes/Why I choose Obsidian\|Why I choose Obsidian]] which I have the [Youtube here](https://www.youtube.com/watch?v=RLIWRcY_qmA&t=49s&ab_channel=EmhaBayu) (in bahasa Indonesia tho.), [[Notes/How to make book review in Obsidian\|How to make book review in Obsidian]], [[Notes/Zotero X Obsidian workflow\|Zotero X Obsidian workflow]]
 
