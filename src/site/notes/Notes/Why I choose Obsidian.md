@@ -25,3 +25,5 @@
 [[Notes/Obsidian/Francisco Bricio Obsidian\|Francisco Bricio Obsidian]]
 [[Notes/How to make book review in Obsidian\|How to make book review in Obsidian]]
 [[Notes/Obsidian/Obsidian formating example\|Obsidian formating example]]
+[[Notes/Zotero X Obsidian workflow\|Zotero X Obsidian workflow]]
+
