@@ -33,7 +33,7 @@ Below are maybe good starts to enter my Second Brain.
 Or, some random notes like:
 - Notes related to productivity here:  [[015_Notes_Productivity\|015_Notes_Productivity]]
 - Want to be good at managing notes? [[Notes/Introduction to Zettelkasten\|Introduction to Zettelkasten]]
-- Notes related to obsidian:  [[Notes/Why I choose Obsidian\|Why I choose Obsidian]] which I have the [Youtube here](https://www.youtube.com/watch?v=RLIWRcY_qmA&t=49s&ab_channel=EmhaBayu) (in bahasa Indonesia tho.), [[Notes/How to make book review in Obsidian\|How to make book review in Obsidian]], [[Notes/Zotero X Obsidian workflow\|Zotero X Obsidian workflow]]
+- Notes related to [[Notes/Obsidian\|Obsidian]]:  [[Notes/Why I choose Obsidian\|Why I choose Obsidian]] which I have the [Youtube here](https://www.youtube.com/watch?v=RLIWRcY_qmA&t=49s&ab_channel=EmhaBayu) (in bahasa Indonesia tho.), [[Notes/How to make book review in Obsidian\|How to make book review in Obsidian]], [[Notes/Zotero X Obsidian workflow\|Zotero X Obsidian workflow]]
 
 These notes are growing. In case you are wondering how they grow, consider subscribing to my [[Notes/Newsletter\|Newsletter]]. I will compile the ideas from my messy second brain and make an edible article for you ~~biweekly~~ when I feel like to. Don't worry, I will not spam you.
 
