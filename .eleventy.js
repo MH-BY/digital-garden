@@ -3,18 +3,30 @@ const markdownIt = require("markdown-it");
 const fs = require("fs");
 const matter = require("gray-matter");
 const faviconPlugin = require("eleventy-favicon");
-const tocPlugin = require("eleventy-plugin-toc");
+const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
+const htmlMinifier = require("html-minifier");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const {
+  userMarkdownSetup,
+  userEleventySetup,
+} = require("./src/helpers/userSetup");
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setLiquidOptions({
+    dynamicPartials: true,
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
   })
+    .use(require("markdown-it-anchor"), {
+      slugify: headerToId,
+    })
+    .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
@@ -136,7 +148,8 @@ module.exports = function (eleventyConfig) {
 
         return defaultLinkRule(tokens, idx, options, env, self);
       };
-    });
+    })
+    .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
 
@@ -150,7 +163,7 @@ module.exports = function (eleventyConfig) {
         }
         const [fileLink, linkTitle] = p1.split("|");
 
-        let fileName = fileLink;
+        let fileName = fileLink.replaceAll("&amp;", "&");
         let header = "";
         let headerLinkPath = "";
         if (fileLink.includes("#")) {
@@ -159,6 +172,7 @@ module.exports = function (eleventyConfig) {
         }
 
         let permalink = `/notes/${slugify(fileName)}`;
+        let noteIcon = process.env.NOTE_ICON_DEFAULT;
         const title = linkTitle ? linkTitle : fileName;
         let deadLink = false;
 
@@ -172,22 +186,19 @@ module.exports = function (eleventyConfig) {
           if (frontMatter.data.permalink) {
             permalink = frontMatter.data.permalink;
           }
+          if (frontMatter.data.tags && frontMatter.data.tags.indexOf("gardenEntry") != -1) {
+            permalink = "/";
+          }
+          if (frontMatter.data.noteIcon) {
+            noteIcon = frontMatter.data.noteIcon;
+          }
         } catch {
           deadLink = true;
         }
 
         return `<a class="internal-link ${
           deadLink ? "is-unresolved" : ""
-        }" href="${permalink}${headerLinkPath}">${title}</a>`;
-      })
-    );
-  });
-
-  eleventyConfig.addFilter("highlight", function (str) {
-    return (
-      str &&
-      str.replace(/\=\=(.*?)\=\=/g, function (match, p1) {
-        return `<mark>${p1}</mark>`;
+        }" ${deadLink ? "" : 'data-note-icon="' + noteIcon + '"'} href="${permalink}${headerLinkPath}">${title}</a>`;
       })
     );
   });
@@ -195,22 +206,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("taggify", function (str) {
     return (
       str &&
-      str.replace(
-        tagRegex,
-        function (match, precede, tag) {
-          return `${precede}<a class="tag" onclick="toggleTagSearch(this)">${tag}</a>`;
-        }
-      )
+      str.replace(tagRegex, function (match, precede, tag) {
+        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
+      })
     );
   });
 
   eleventyConfig.addFilter("searchableTags", function (str) {
     let tags;
-    let match =
-      str &&
-      str.match(
-        tagRegex,
-      );
+    let match = str && str.match(tagRegex);
     if (match) {
       tags = match
         .map((m) => {
@@ -223,6 +227,15 @@ module.exports = function (eleventyConfig) {
     } else {
       return "";
     }
+  });
+
+  eleventyConfig.addFilter("hideDataview", function (str) {
+    return (
+      str &&
+      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
+        return value.trim();
+      })
+    );
   });
 
   eleventyConfig.addTransform("callout-block", function (str) {
@@ -279,7 +292,25 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
+    if (
+      process.env.NODE_ENV === "production" &&
+      outputPath &&
+      outputPath.endsWith(".html")
+    ) {
+      return htmlMinifier.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true,
+      });
+    }
+    return content;
+  });
+
   eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPlugin(faviconPlugin, { destination: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
@@ -290,14 +321,16 @@ module.exports = function (eleventyConfig) {
     return JSON.stringify(variable) || '""';
   });
 
-  eleventyConfig.addFilter('validJson', function (variable) {
-    if(Array.isArray((variable))){
-        return variable.map(x=>x.replaceAll("\\", "\\\\")).join(",");
-  }else if(typeof(variable) === 'string'){
-        return variable.replaceAll("\\", "\\\\"); 
+  eleventyConfig.addFilter("validJson", function (variable) {
+    if (Array.isArray(variable)) {
+      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    } else if (typeof variable === "string") {
+      return variable.replaceAll("\\", "\\\\");
     }
     return variable;
   });
+
+  userEleventySetup(eleventyConfig);
 
   return {
     dir: {
