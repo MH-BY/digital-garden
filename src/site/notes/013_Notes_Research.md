@@ -62,6 +62,7 @@
 ## Place to learn
 [learn bayesian optimization](https://www.kaggle.com/code/pashupatigupta/hr-analytics-hyper-parameter-tuning-techniques?scriptVersionId=55054003)
 [Benchmarking the Performance of Bayesian Optimization across Multiple Experimental Materials Science Domains](https://paperswithcode.com/paper/benchmarking-the-performance-of-bayesian)
+[GPTflowOpt First step to bayesian opt](https://gpflowopt.readthedocs.io/en/latest/tutorialsAndExamples.html#tutorials)
 
  
 ## Random things to check
