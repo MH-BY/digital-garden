@@ -57,6 +57,8 @@
 [[Notes/Perovskite memristor structures that have ever made\|Perovskite memristor structures that have ever made]]
 [[Notes/Perovskite to moisture\|Perovskite to moisture]]
 [[Notes/Good article on perovskite solar cells\|Good article on perovskite solar cells]]
+[[Notes/Phases of perovskites depends on the temperature\|Phases of perovskites depends on the temperature]]
+
 
 
 ## Place to learn
