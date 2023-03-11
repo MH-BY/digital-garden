@@ -3,7 +3,7 @@
 ---
 
 
-# Add a comments section in every note
+# Add a comments section in every note in Digital Garden
 
 I make this static website using Obsidian plugin called [Digital Garden](https://dg-docs.ole.dev/). 
 No comment section as default. I need to embed third-party 'app' . I use [Disqus](https://disqus.com/). 
@@ -39,3 +39,5 @@ No comment section as default. I need to embed third-party 'app' . I use [Disqus
 #### Linked notes
 
 [[Notes/Preparing Obsidian Publish\|Preparing Obsidian Publish]]
+[[Notes/ConvertKit\|ConvertKit]]
+[[Notes/How to embed Newsletter on Obsidian\|How to embed Newsletter on Obsidian]]
