@@ -21,9 +21,11 @@
 
 ## Jan 2023
 # No! I changed my mind
-Instead, I use an obsidian plugin called [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden).
-Here is my website www.emhabayu.com
-
+- Instead, I use an obsidian plugin called [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). The documentation is [here](https://dg-docs.ole.dev/). It's awesome and free.....
+   The basic idea is that you push your notes into GitHub, and use [Vercel](https://vercel.com/dashboard) to make a static website. 
+   Here is my website www.emhabayu.com
+- [[Notes/How to embed Newsletter on Obsidian\|How to embed Newsletter on Obsidian]]
+- 2023/03/11 I [[Notes/Add a comments section in every note\|Add a comments section in every note]].
 
 
 ## Back links
